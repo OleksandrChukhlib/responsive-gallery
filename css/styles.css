@@ -24,7 +24,7 @@ body {
 
 .item_big {
   grid-column: 1 / -2;
-  background-image: url(/img/img-1.jpg);
+  background-image: url(./img/img-1.jpg);
   padding: 48px;
   display: grid;
   align-content: end;
